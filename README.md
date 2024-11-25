@@ -1,2 +1,2 @@
 # curso-python
-Curso de python
+Curso de Brais - Python
